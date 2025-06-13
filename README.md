@@ -1,4 +1,4 @@
-- 👋 'Hi, I'm Miracle Lee, a sophomore at the University of Washington pursuing a BS in Computer Science with a minor in Business Administration.'
+- 👋 'Hi, I'm Miracle Lee, a student at the University of Washington pursuing a BS in Computer Science.'
 - 📫 'ml284@uw.edu'
 
 <!---
